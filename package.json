@@ -2,7 +2,7 @@
     "name": "@blacket/types",
     "version": "0.0.6",
     "description": "",
-    "main": "dist/index.js",
+    "main": "dist/index.ts",
     "types": "dist/index.d.ts",
     "files": [
         "/dist"
